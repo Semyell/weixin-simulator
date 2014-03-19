@@ -17,7 +17,7 @@ settings = {
     "FromUserName": "oLXjgjiWeAS1gfe4ECchYewwoyTc",
 
     # URL of your Wexin handler.
-    "url": "http://localhost:8080/weixin",
+    "url": "http://newborn2013.stuzone.com/shaoye/wx_sample.php",
 
     # These will be displayed in GUI.
     "mp_display_name": "APP",
